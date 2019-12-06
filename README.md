@@ -27,3 +27,13 @@ This Lecture uses C, JAVA Language and Microsoft Visual Studio and JRE & Eclipse
 | 2016-11-25 | Maze Game + Contact with Struct |
 | 2016-11-30 | Linked List Implementation with Struct |
 | 2016-12-07 | JAVA Basic |
+
+&nbsp;
+--------
+
+The source code of *mintplo* is primarily distributed under the terms
+of the [GNU Affero General Public License v3.0] or any later version. See
+[COPYRIGHT] for details.
+
+[GNU Affero General Public License v3.0]: LICENSE
+[COPYRIGHT]: COPYRIGHT
